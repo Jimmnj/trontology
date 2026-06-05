@@ -1,0 +1,80 @@
+# Glossary — Substrate Theory
+
+---
+
+## Tron
+A continuous density field ρ_t(x,t).  
+Defines configuration; gradients correspond to E.
+
+---
+
+## Ron
+A flow field v_r(x,t).  
+Circulation corresponds to B.
+
+---
+
+## μ (Mu)
+Internal order parameter.  
+Encodes:
+- overshoot
+- relaxation
+- induced stiffness
+- phase lag
+
+Responds to ∂E/∂t.
+
+---
+
+## Substrate
+A continuous, soft, field-responsive medium with:
+- no shear modulus
+- no preferred frame
+- no particle content
+
+---
+
+## Helmholtz Closure
+
+
+\[
+\nabla^2 \Phi - k^2 \Phi = 4\pi G \rho_b
+\]
+
+
+Static limit of substrate response.
+
+---
+
+## Longitudinal Mode
+Density oscillation → gravity.
+
+---
+
+## Transverse Mode
+Flow oscillation → electromagnetism.
+
+---
+
+## Internal Mode
+μ-phase oscillation → quantum behavior.
+
+---
+
+## Unified Wave Equation
+Single substrate equation whose modes produce gravity, EM, and quantum behavior.
+
+---
+
+## Field-Induced Anisotropy
+Stiffness arises dynamically from μ, not from a solid ether.
+
+---
+
+## Responsive Medium
+A medium whose properties depend on local field configuration.
+
+---
+
+## Substrate Unification
+Gravity, EM, and quantum behavior emerge from one underlying medium.
