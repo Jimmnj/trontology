@@ -331,6 +331,9 @@ stated it is in rho_c units and therefore inherits exactly the
 objection JM has just raised.
 
 ### 4.2 UNIFORM FREQUENCY RESCALING KILLS THE TIRED-LIGHT OBJECTION [UNRATIFIED]
+### >>> SEE AMENDMENTS 2026-08-31, item A3. JM has REJECTED the source's
+### energy-loss mechanism on physical grounds. 4.2 is a Claude-derived
+### reconstruction, not JM's commitment and not the source's statement.
 
 Dropping photons is not a cost here. It is the move that saves the
 static cosmology.
@@ -366,6 +369,9 @@ COST: the rescaling must be DISPERSIONLESS — exactly uniform across
 ~10 decades in frequency. Real constraint on the mechanism.
 
 ### 4.3 THE LTI OBSTRUCTION — A FORCED COMMITMENT [UNRATIFIED]
+### >>> SEE AMENDMENTS 2026-08-31, item A2. "FORCED COMMITMENT" IS THE
+### WRONG HEADING. This is Claude-derived (T6), never ratified, and NOT
+### JM's idea. It is a constraint, not a commitment.
 
 A linear time-invariant system cannot create new frequencies. Output
 components are input components scaled by a transfer function. Not an
@@ -671,5 +677,241 @@ Awaiting JM's keep / kill / restate:
       pressure, not refutation (4.7.2)
 - T12 The Lerner fork: n=1 vs n=2 as a potential falsifier of the
       wave-rescaling mechanism 4.2 (4.7.3)  <- HIGHEST PRIORITY
+
+---
+
+## 8. AMENDMENTS — 2026-08-31 (JM rulings this session)
+
+### A1. COMMITMENT 3 SHARPENED — JM RULING [T1, JM's words in substance]
+"Trontology: a physical ether with mass is a fundamental. SR, GR, and
+Lorentz invariance are not fundamental. Things like the speed of gravity
+and many other phenomena are open to reinterpretation."
+
+So Commitment 3 ("No SR or GR as fundamental theories") is extended
+explicitly to LORENTZ INVARIANCE ITSELF. This is not a restatement — it
+is a widening, and it has consequences that were being got wrong:
+
+ - CLAUDE ERROR, CORRECTED. Earlier this session I argued that Carlip
+   2000 rescues the framework from the gravitational-aberration problem,
+   on the grounds that Tier A makes Trontology "empirically Lorentz
+   invariant." THAT CONFLATED TWO THINGS. Tier A says the framework is
+   KINEMATICALLY equivalent to SR — Lorentz transformations apply to
+   RODS AND CLOCKS as dynamical effects of motion through the substrate.
+   It does NOT say the substrate dynamics is Lorentz-invariant, and
+   Carlip's argument needs the latter. Withdrawn.
+ - CONSEQUENCE, AND IT FAVOURS THE FRAMEWORK: in a preferred-frame
+   theory the aberration problem is LIVE. Finite-speed propagation in
+   the ether frame means a moving source attracts toward where it WAS,
+   giving a tangential component that would spiral orbits. GR kills this
+   with velocity-dependent terms; a substrate theory does not get them
+   free. So Van Flandern's inference applies more forcefully to
+   Trontology than to GR, and R10's fast channel RECOVERS its
+   motivation — from the foundations, not from the number.
+ - COST, AND IT IS REAL: the framework cannot decline Lorentz invariance
+   and then borrow Carlip's cancellation when convenient. It owes its
+   OWN account of why orbits do not spiral. ADD TO THE TIER B LEDGER:
+   "non-aberration of gravity — recovery owed."
+ - OPEN QUESTION, worth settling before building on the fast channel.
+   Carlip has TWO threads and only one needs Lorentz invariance. The
+   other is Noether: a Lagrangian invariant under ROTATIONS and TIME
+   TRANSLATIONS conserves angular momentum and energy, and it is that
+   conservation which forces the velocity-dependent terms. Absolute time
+   and Euclidean space supply BOTH symmetries cleanly — more cleanly
+   than GR, where global energy conservation is awkward. (Note for the
+   record: time-translation invariance means only that the laws do not
+   change with time. It is Noether 1918 applied to Lagrangian mechanics
+   and carries NO relativistic content; a boost is not a time
+   translation.) SO: does angular-momentum conservation in the ether
+   frame force the same order of cancellation? If yes, the framework
+   gets non-aberration with absolute time, Euclidean space, no Lorentz
+   invariance AND no superluminal channel. If no, the fast channel is
+   needed. Yes/no, and it decides R10.
+ - SCALE CHECK on that: 4.3 requires the redshift mechanism to break
+   time-translation invariance (secular variation). That is not a
+   contradiction with the above — locally (solar system, orbital
+   periods) invariance holds superbly and any cancellation it forces is
+   intact; cosmologically, over c/H0, it fails by exactly the amount
+   that makes the redshift. Ten orders of magnitude apart. State it
+   rather than assume it.
+
+### A2. §4.3 (T6) IS NOT JM'S — ATTRIBUTION CORRECTED [JM ruling]
+JM, 2026-08-31: "nonlinear, parametric, or secularly time-varying —
+those are not my ideas, someone must have smuggled them in."
+CORRECT. §4.3 is Claude-derived (2026-07-29), sits in this file's own
+queue as T6 [UNRATIFIED], and was never ratified. It has been treated
+as settled framework in session work since. It is not a commitment and
+the heading "A FORCED COMMITMENT" overstates it.
+WHAT SURVIVES AS PHYSICS, INDEPENDENT OF ATTRIBUTION: a linear
+time-invariant system cannot create new frequencies, and frequency is
+conserved across a static medium (which is why refraction changes
+wavelength but never frequency). So whatever fills C1 must shift
+FREQUENCY, and simple loss in a static linear medium cannot. JM is free
+to reject T6 as a commitment; the constraint does not thereby vanish.
+
+### A3. JM REJECTS THE SOURCE'S ENERGY-LOSS MECHANISM [JM ruling]
+JM, 2026-08-31: "I don't like my dad's statement of energy loss since I
+can't imagine how that could affect wavelength. I consider the issue
+open and just needs to be considered ad hoc unknown physics."
+
+THE OBJECTION IS SOUND AND IS THE SHARP FORM OF A2: attenuation reduces
+AMPLITUDE, not FREQUENCY. A wave losing energy gets weaker, not redder.
+Note that JM's objection and the T6 constraint he rejects are THE SAME
+PHYSICS — one stated physically, one formally. He re-derived it
+independently.
+
+PROVENANCE NOTE — THIS IS A DELIBERATE DEPARTURE FROM THE SOURCE, and
+must not be silent. "Introduction to the Tron" states verbatim: "The red
+shift is seen to result from an imperceptible but nonetheless continual
+ENERGY LOSS occurring in stellar radiant waves as they propagate through
+the intergalactic tronos." (See SOURCE_AUDIT_INTRO_TO_THE_TRON_
+20260831.md §4.) Canon holds that the source outranks session work; here
+the LIVING AUTHOR overrules the source on physical grounds, which is
+legitimate but is a ruling, not a reading.
+CONSEQUENCE FOR T12: energy loss is Lerner's n = 1 branch. Rejecting it
+removes the SOURCE's claim on that branch. The n=1 vs n=2 fork is now a
+question about an undetermined mechanism rather than about which of two
+stated mechanisms is right.
+STATUS: C1 remains PARKED as ad hoc unknown physics. The constraint
+ledger still binds whatever fills the slot — achromatic, dispersionless
+across ~10 decades, no blurring, and must account for SN light-curve
+stretching.
+
+### A4. NON-LINEAR HUBBLE RELATION AT DEPTH — JM SPECULATION [OPEN]
+JM, 2026-08-31: he saw a paper showing extremely deep galaxies veering
+away from linear under a static model using average galaxy size (or
+luminosity), and speculates the Hubble curve may not be linear all the
+way out.
+ - CITATION MISSING AND REQUIRED. A deviation claim needs its source.
+   Preservation/scan item: find that paper.
+ - THIS MODIFIES COMMITMENT 4, which currently reads "Redshift is z
+   proportional to distance ONLY." A curve that bends at depth is a
+   DIFFERENT commitment. Do not conflate the two silently.
+ - IT IS ALREADY TESTABLE AND ALREADY IN THIS FILE: under strict z ∝ d
+   with Euclidean geometry, TEST 1 (§4.7.1) gives θ × z = constant.
+   Deep galaxies veering off that line is exactly the signature. So the
+   speculation is not free-floating — it is a prediction about the
+   residuals of a test already specified here.
+ - CAUTION: §4.7.4 already flags that SELECTION IS NOT EVOLUTION. At
+   large distance one preferentially detects the biggest and brightest,
+   which biases <R> upward with z and mimics a deviation. Any claimed
+   veer must survive that before it means anything.
+
+#### A4.1 CANDIDATE CITATION FOUND — 2026-08-31 [NOT YET READ IN FULL]
+JM: the result was used in a Lerner video conference on the static
+universe, ~1-2 years ago. Search this session turned up what is very
+likely the underlying paper:
+
+  Raikov, A. A., Tsymbal, V. V., & Lovyagin, N. Yu.,
+  "Cosmological observational tests in the JWST Era. I:
+   angular size — redshift"
+  Astrophysical Bulletin, vol. 80, issue 3.  arXiv:2507.19651 (2025)
+
+  COMPANION: "Cosmological Observational Tests in the JWST Era. II:
+  The Tolman Test", arXiv:2604.27867 (2026).
+
+WHY THIS IS ALMOST CERTAINLY IT: the paper tests THREE models —
+LCDM, a tired-light static model, and A LINEAR HUBBLE LAW (naive
+Euclidean), the last being COMMITMENT 4 EXACTLY, with
+D_A(z) = (c/H0) z as its equation 3. And papers I and II are TEST 1
+and TEST 2 of §4.7.1 respectively, run on JWST data. Both of this
+file's model-free tests have now been performed in the JWST era.
+
+REPORTED FINDING (from a summary read, NOT the paper itself): at high
+redshift the observed angular sizes deviate UPWARD from the static /
+linear prediction — galaxies appear LARGER than that model predicts.
+That is exactly the "veering away from linear" JM recalls.
+
+THE FORK IT CREATES, and it is sharp:
+ theta = R/d.  If theta runs high at large z, then either
+   (a) R grows with z — GALAXY SIZE EVOLUTION. INADMISSIBLE HERE:
+       Commitment 2 has no cosmic epoch, so there is no evolution free
+       function available. This is the option LCDM uses and the option
+       this framework has deliberately given up.
+   (b) d is SMALLER than (c/H0) z at depth — i.e. THE REDSHIFT-DISTANCE
+       RELATION BENDS. That is JM's speculation, and it is the only
+       absorption route the commitments permit.
+So the datum is a genuine constraint, not a free parameter: having
+forbidden evolution, the framework MUST take route (b) or take the hit.
+Route (b) modifies Commitment 4 from "z proportional to distance ONLY"
+to "z monotonic in distance, linear at low z, bending at depth" — a
+weaker and more complicated commitment, and one that owes a mechanism
+(it is the SAME unknown physics as C1; a mechanism that bends the
+relation is a mechanism that produces it).
+
+PROVENANCE UPGRADE, and it matters for §4.7.3's REPUTATIONAL NOTE:
+these are NOT Lerner's papers. Different authors, peer-reviewed
+Astrophysical Bulletin. If the static-universe angular-size result can
+be cited from Raikov et al. rather than from Lerner, the association
+cost flagged in §4.7.3 largely disappears. That is worth more to the
+program than the datum itself.
+
+STATUS: [UNVERIFIED — SUMMARY ONLY]. Claude has NOT read either paper.
+Before anything is built on this: read paper I in full, confirm the
+direction and significance of the high-z deviation, confirm which of
+the three models the deviation is stated against, and check the
+selection-bias treatment against §4.7.4. Then read paper II against
+TEST 2 and the n = 1 vs n = 2 fork (T12).
+
+### A6. C1 BRANCH ANALYSIS — ALL THREE UNDER PRESSURE [2026-08-31]
+Worked in conversation at the end of the session; logged so it is not
+lost. [UNRATIFIED, Claude reasoning, JM's premises.]
+
+SECULAR and PARAMETRIC branches: DEAD, and killed by JM's own
+Commitment 1. No creation event => indefinitely old universe => any
+MONOTONIC drift in the substrate diverges over that span. If the rate is
+set to give z ~ 1 per Hubble time and the universe is 1e2-1e3 Hubble
+times old, the substrate is long gone. No tuning helps; the problem
+scales with age. (JM encountered the old-universe argument in an
+LPPFusion / Cosmic Connection video by Lerner — recorded as
+provenance-of-encounter only, NOT as a citation. The argument does not
+need it: Commitment 1 supplies the premise directly, which also keeps
+the reasoning free of the §4.7.3 Lerner association.)
+
+NONLINEAR branch: survives the age argument (a nonlinearity is a STATIC
+property, so nothing diverges) but is squeezed from the other side:
+  - nonlinear in the WAVE's amplitude  -> z depends on SOURCE BRIGHTNESS.
+    Falsified immediately: quasars and dwarfs at equal distance show
+    equal z. And distant sources are faint exactly where the shift must
+    be largest.
+  - nonlinear in the MEDIUM's variables only, wave propagating linearly
+    -> LTI reapplies -> no shift at all.
+
+BLUR CONSTRAINT — CORRECTED, JM's catch. Claude listed blurring as a
+hazard for the nonlinear branch. WRONG, and JM is right that it comes
+from assuming scattering: blur requires INHOMOGENEITY (discrete
+scattering centres), not photons and not nonlinearity. A propagation
+property of a smooth medium does not blur regardless of ontology —
+which §4.2 already states. Withdrawn as a constraint on this branch.
+CHROMATICITY survives as a constraint and is independent of ontology.
+
+NET: this is NOT a narrowing to one live branch. All three carry a named
+killer. C1's status as PARKED, ad hoc unknown physics is therefore the
+honest one, and is stronger than a forced choice among three branches
+that each fail. Three dead ends logged with reasons, per the program's
+own standard.
+
+CLAUDE'S OWN CAVEAT: all of the above reasons from standard wave
+mechanics in ordinary media, which assumes a clean split between
+"medium" and "wave". In a substrate where the wave IS a disturbance of
+the same stuff that constitutes the measuring apparatus, that split may
+not hold. This is a FLAG, not a rescue — it cannot be checked without
+the tron field equations.
+
+### A5. RATIFICATION QUEUE UPDATE
+T6 — restated per A2: not a commitment, a constraint; Claude-derived.
+T12 — reframed per A3: the source's n=1 claim is withdrawn by JM.
+NEW T13 — Commitment 3 extended to Lorentz invariance (A1).
+NEW T14 — non-aberration recovery owed; Carlip conservation-thread
+          question open (A1).
+NEW T15 — non-linear Hubble at depth (A4). CANDIDATE CITATION FOUND
+          (A4.1: Raikov, Tsymbal & Lovyagin 2025, arXiv:2507.19651,
+          + companion Tolman paper arXiv:2604.27867). BOTH UNREAD.
+NEW T17 — C1 branch analysis (A6): all three branches carry a named
+          killer; blur withdrawn as a constraint; C1 stays parked.
+NEW T16 — read Raikov et al. I and II; they are TEST 1 and TEST 2 of
+          §4.7.1 done in the JWST era, by non-Lerner authors in a
+          peer-reviewed journal. Potentially resolves the §4.7.3
+          reputational problem.
+
 
 # END OF FILE
