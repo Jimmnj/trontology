@@ -26,10 +26,36 @@ the refereed literature and freshly reopened by DESI. State it as
   frame as LCDM expects. Argument: an isotropic-model fit to an
   anisotropic local universe manufactures a "dark energy" that is a
   local-flow artifact. T3 (from prior knowledge; VERIFY).
-- Curt Jaimungal (Theories of Everything), 2026-01-26, ~2 h, "Subir
-  Sarkar: Why Dark Energy is a Local Illusion." Popular restatement of
-  the above. Transcript NOT read (browser blocked 2026-09-18). Not
-  citable; pointer only.
+- Curt Jaimungal (Theories of Everything), 2026-01-26, ~1h57m, "Subir
+  Sarkar: Why Dark Energy is a Local Illusion" (youtu.be/epkuoytFJWA).
+  Read via YouTube page + TOE show notes 2026-09-19 (not full transcript).
+  Sarkar's framing IN THE NOTES (T1-as-reported, verify against papers):
+  * The 2011 Nobel was for the discovery of cosmic acceleration. His
+    team reanalyzed the SNe when the full-sky catalog became available
+    and found the claimed 5-sigma "discovery" is ~3-sigma ("evidence
+    for, not discovery of").
+  * Allowing acceleration to vary by DIRECTION, it is a DIPOLE:
+    acceleration toward the CMB hotspot, deceleration opposite. Average
+    over the sky -> expansion at a CONSTANT rate (no acceleration).
+  * Stronger claim as stated: the acceleration appears only in the
+    direction we move through space; the isotropy assumption underlying
+    the Nobel result is falsified at >5-sigma by his anisotropy data.
+  * He recounts a journal rejecting the paper explicitly because "it
+    questions a Nobel." Sociology, not physics, but citable as such.
+  Sarkar reference papers listed in the TOE notes (get exact titles):
+    arXiv:2207.05765 (the "Principle" / isotropy-of-the-universe test),
+    arXiv:2103.13904 (galaxy-cluster scaling anisotropy),
+    arXiv:2201.06875 (the Giant Arc on the sky, Lopez et al. -- large-
+    scale structure exceeding the homogeneity scale). These plus the
+    2016 (1506.01354) and 2019 (1808.04597) papers are the citable
+    Sarkar corpus. VERIFY each before quoting.
+  NOTE the dipole claim connects to JM's own picture: an acceleration
+  aligned with our motion through space is exactly what a LOCAL-REST-
+  FRAME (ether/substrate) cosmology would produce as an artifact of
+  fitting an isotropic expanding model to motion through a real medium.
+  But Sarkar himself frames it as a bulk flow in FLRW, NOT a preferred
+  frame -- the firewall note below still holds; cite the data, not a
+  shared model.
 - Sarkar's own caveat for us (IMPORTANT, keep the firewall honest): he
   is a PARTICLE PHYSICIST arguing SYSTEMATICS inside standard GR. His
   "local illusion" = a real bulk flow in an inhomogeneous FLRW universe,
