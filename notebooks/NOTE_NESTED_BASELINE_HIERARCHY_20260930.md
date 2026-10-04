@@ -88,3 +88,45 @@ Doesn't like a bounded universe; multiverses unattractive too; agrees untestable
 hint at an explanation of the horizon and some other observables. Recorded as position, not
 ruling.
 # END -- [T4, FIREWALLED]
+
+## 6. CONSERVATION OF TRONS AND THE HELMHOLTZ OSCILLATION (JM 10/1) [T4, FIREWALLED]
+JM: Tron holds conservation of trons; that should support the Helmholtz (oscillating) reading.
+READING: yes, structurally. A conserved medium redistributed by a potential MUST have troughs where
+the bumps were drawn from. The small-bump limit of the law is the +k^2 Helmholtz equation, whose
+regular solution sin(kr)/(kr) alternates sign: bump, trough, bump. Shell by shell the running excess
+oscillates about zero. That is what a conserved redistribution looks like. The Yukawa (-k^2) form
+Paper I withdrew is the opposite: a monotone screened excess with net mass created. So conservation
+of the medium picks Helmholtz over Yukawa on its own, independent of the data argument.
+k is the Jeans wavenumber of the medium: k^2 = 4 pi G rho_amb/sigma^2. The static Helmholtz pattern
+is the Jeans standing wave. Numbers (script, 10/1): rho_amb = 35.5, sigma^2 = 1e4 (L*):
+k = 4.4e-4/kpc, lambda = 14 Mpc, first zero 7 Mpc. rho_amb = 150: lambda = 7 Mpc, first zero 3.5.
+Canon R_edge = sigma/sqrt(2 pi G rho_amb) = 3.2 Mpc at (35.5, 1e4): the full nonlinear edge sits
+inside the linear first zero, as it should (the bump is steeper than linear).
+GPRF-SIDE CONSEQUENCE (mainstream-safe, can cross the firewall as one sentence): "conservation of
+the medium requires the halo excess to be drawn from the Mpc-scale field; N11 xi_gm tests it." The
+oscillation itself stays Tron-side: N10 found R_edge spheres overlap at the closure density, so the
+single-galaxy trough is never realized; the field-level pattern (voids as troughs, ~10-30 Mpc) is
+suggestive and NOT a claim. Do not put "Jeans standing wave" or "voids as troughs" in GPRF I/II.
+Open: the Jeans instability of a uniform self-gravitating medium is the same equation; what keeps
+the static pattern static is the Tron-side question (what sets sigma is the GPRF-side one, N14).
+
+## 6a. RON FLOW, NOT TRON FLOW (JM 10/1) [T4, FIREWALLED]
+JM (substance): "it's not really a flow of trons - it's more a flow of rons - away from the baryons
+to shrink the nearby trons and increase their mass and volume density and grow the trons farther away."
+RESTATED: trons = conserved units, fixed mass, variable volume. Rons = what flows. Rons leave the
+neighbourhood of baryons -> nearby trons shrink -> density rises (halo = COMPRESSION). Rons arrive
+farther out -> trons swell -> density falls (trough = EXPANSION). No tron crosses the edge; tron count
+conserved by construction.
+CONSEQUENCES:
+- Exponential law is the natural volume response: rho = m/V, V = V_0 exp(-phi_loc/sigma^2)
+  -> rho_tot = rho_amb exp(phi_loc/sigma^2); the -1 subtracts the uncompressed state.
+  dV/V = -dphi_loc/sigma^2: fixed fractional volume change per unit potential. sigma^2 = compressibility
+  scale of a tron under potential (a specific energy, now with a referent). Tron-side definition only.
+- Floor: expansion unbounded in V -> rho_tot -> 0 -> rho_nb -> -rho_amb. Canon floor = empty-tron limit.
+  Compression unbounded (the over-response concern, unchanged).
+- Helmholtz pattern = standing compression wave in the tron medium. "Why is the Jeans pattern static"
+  becomes "what is the equilibrium of ron flow." Open.
+- Canon check: 0c(e) closed sigma as a state function of rho_nb. This is V as a function of phi_loc,
+  i.e. the law itself. Not a reversal; different state variable.
+- Firewall: nothing crosses. At most the word "compression" (vs "accumulation") in GPRF prose, which
+  does not name what is compressed.
